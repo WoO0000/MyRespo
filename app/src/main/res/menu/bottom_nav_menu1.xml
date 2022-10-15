@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home1"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="首页1" />
+    <item
+        android:id="@+id/navigation_dashboard1"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="签到1" />
+    <item
+        android:id="@+id/navigation_notifications1"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:title="我的1" />
+</menu>

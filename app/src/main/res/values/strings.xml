@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">课堂签到(教师版)</string>
+    <string name="title_activity_main3">教师端</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">签到</string>
+    <string name="title_notifications">我的</string>
+    <string name="title_activity_main4">MainActivity4</string>
+
+
+    <string name="shared_preferences_file_name">sp_login
+    </string>
+    <string name="login_account_name">login_account_name
+    </string>
+    <string name="login_password">login_password
+    </string>
+    <string name="login_remember_password">login_remember_password
+    </string>
+    <string name="title_activity_main8">MainActivity8</string>
+</resources>

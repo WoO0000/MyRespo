@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_back" type="id" />
+    <item name="view_temp" type="id" />
+    <item name="re_avatar" type="id" />
+    <item name="tv_avatar" type="id" />
+    <item name="re_userName" type="id" />
+    <item name="userName" type="id" />
+    <item name="tv_userName" type="id" />
+    <item name="re_collegeName" type="id" />
+    <item name="tv_collegeName" type="id" />
+    <item name="re_realName" type="id" />
+    <item name="realName" type="id" />
+    <item name="tv_realName" type="id" />
+    <item name="re_idNumber" type="id" />
+    <item name="idNumber" type="id" />
+    <item name="tv_idNumber" type="id" />
+    <item name="re_gender" type="id" />
+    <item name="gender" type="id" />
+    <item name="tv_gender" type="id" />
+    <item name="re_phone" type="id" />
+    <item name="phone" type="id" />
+    <item name="tv_phone" type="id" />
+    <item name="re_email" type="id" />
+    <item name="email" type="id" />
+    <item name="tv_email" type="id" />
+    <item name="re_inSchoolTime" type="id" />
+    <item name="inSchoolTime" type="id" />
+    <item name="tv_inSchoolTime" type="id" />
+    <item name="save" type="id" />
+</resources>
