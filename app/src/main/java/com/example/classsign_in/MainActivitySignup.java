@@ -51,6 +51,7 @@ public class MainActivitySignup extends AppCompatActivity implements View.OnClic
         newUsername = findViewById(R.id.et_newAccount);
         newPassword = findViewById(R.id.et_newpwd);
         newUserId = findViewById(R.id.et_newId);
+
         singup = findViewById(R.id.btn_signup);
         singup.setOnClickListener(this);
     }
